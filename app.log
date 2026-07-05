@@ -1,0 +1,7 @@
+2026-07-05 23:13:28,686 | bot | INFO | Запрос к ru.wikipedia.org | Статус: 200
+2026-07-05 23:13:28,687 | bot | INFO | Найдена статья: URL
+2026-07-05 23:13:46,908 | bot | INFO | Запрос к ru.wikipedia.org | Статус: 404
+2026-07-05 23:13:46,908 | bot | WARNING | Статья 'wftstgw' не найдена на ru Wikipedia
+2026-07-05 23:13:47,950 | bot | INFO | Запрос к en.wikipedia.org | Статус: 404
+2026-07-05 23:13:47,951 | bot | WARNING | Статья 'wftstgw' не найдена на en Wikipedia
+2026-07-05 23:13:47,951 | bot | WARNING | Статья 'wftstgw' не найдена ни на одном языке
